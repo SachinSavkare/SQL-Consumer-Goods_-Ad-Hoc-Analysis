@@ -27,6 +27,10 @@
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/SQL-Consumer-Goods_-Ad-Hoc-Analysis/main/Thumbnail.png)](https://www.youtube.com/watch?v=pPXLwoBpQCg)
+
+---
+
 ## 📁 Dataset Overview
 
 - **Time Frame:** FY 2020 (Sep 2019–Aug 2020), FY 2021 (Sep 2020–Aug 2021)
